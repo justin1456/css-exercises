@@ -3,5 +3,17 @@ div {
 }
 
 .pink-class {
-background-color: pink;
+background-color: rgb(241, 160, 160);
 }
+
+#number2 {
+    color: rgb(0, 0, 255); font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(124, 240, 124); font-size: 24px; font-weight: bold;
+}
+
+
+
+
