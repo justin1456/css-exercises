@@ -1,0 +1,21 @@
+div {
+
+}
+
+.pink-class {
+background-color: rgb(241, 160, 160); font-family: Verdana, DejaVu Sans, sans-serif;
+}
+.fontsize-class {
+    font-size: 24px;
+}
+#number2 {
+    color: rgb(0, 0, 255); font-size: 36px;
+}
+
+#number4 {
+    background-color: rgb(124, 240, 124); font-size: 24px; font-weight: bold;
+}
+
+
+
+
