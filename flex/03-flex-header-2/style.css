@@ -46,7 +46,7 @@ a {
   color: rebeccapurple;
 }
 button, .profile-image {
-  display:flex;
+  display: flex;
   justify-content: flex-end;
 }
 ul {
