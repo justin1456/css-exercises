@@ -23,6 +23,7 @@ body {
   border-radius: 50%;
   width: 48px;
   height: 48px;
+  justify-content: flex-end;
 }
 
 .logo {
@@ -38,6 +39,7 @@ button {
   background: rebeccapurple;
   color: white;
   padding: 8px 24px;
+  justify-content: flex-start;
 }
 
 a {
@@ -45,12 +47,9 @@ a {
   text-decoration: none;
   color: rebeccapurple;
 }
-button, .profile-image {
-  display: flex;
-  justify-content: flex-end;
-}
 ul {
   list-style-type: none;
   display:flex;
   flex-direction: row;
+  justify-content: space-between;
 }
